@@ -1,10 +1,10 @@
 <h1 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=Hi%2C+It's+Jan!;Full-Stack+Developer;Tech+enthusiast;and+an+Open-Source+Supporter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=Hi%2C+It's+Joan!;Full-Stack+Developer;Tech+enthusiast;and+an+Open-Source+Supporter)](https://git.io/typing-svg)
 </h1>
 
 <p align="center">
-  I am Jan Miquel Solé, graduated with a Bachelor's degree in Computer Science and specialised in integrating Information Technologies, and supporter of the open-source  movement philosophy.<br>
+  I am Joan Miquel Solé, graduated with a Bachelor's degree in Computer Science and specialised in integrating Information Technologies, and supporter of the open-source  movement philosophy.<br>
   
   - 🔭 I’m currently working at UPC, building an Open Source LoRa Mesh Library.
   
@@ -38,21 +38,3 @@ Credit: [Ray0Emma](https://github.com/Ray0Emma)
 Last Edited on: 14/03/2022.
   
 </h4>
-
-
-### Hi there 👋
-
-<!--
-**Jaimi5/Jaimi5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
